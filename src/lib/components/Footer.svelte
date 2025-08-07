@@ -4,7 +4,7 @@
 
 <div class="mt-20 items-center text-xs text-stone-400">
 	<a
-		href="https://github.com/phenomen/dnd5e-ru-ref"
+		href="https://github.com/bog5651/bog5651.github.io"
 		target="_blank"
 		rel="noreferrer"
 		class="flex items-center justify-center"

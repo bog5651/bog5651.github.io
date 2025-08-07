@@ -1,25 +1,27 @@
 # Справочник по D&D 5e на русском языке
 
+Оригинальный автор - [https://github.com/phenomen/dnd5e-ru-ref](https://github.com/phenomen/dnd5e-ru-ref)
+
+Я лишь адаптировал сайт для хостинга на Github Pages
+
 Приложение с краткими правилами Dungeons & Dragons 5e.
 
-**Вебсайт:** [https://5e.ruleplaying.com/](https://5e.ruleplaying.com/)
-
-[Svelte](https://svelte.dev/) + [TailwindCSS](https://tailwindcss.com/) = ❤️
+**Вебсайт:** [https://bog5651.github.io/](https://bog5651.github.io/)
 
 ### Установка
 
 ```bash
-npm install
+yarn
 ```
 
 ### Разработка
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 ### Компиляция
 
 ```bash
-npm run build
+yarn build
 ```
