@@ -8,10 +8,6 @@ jobs:
   build_site:
     runs-on: ubuntu-latest
     steps:
-      - name: Prepare
-        run: |
-          cd source
-
       - name: Checkout
         uses: actions/checkout@v4
 
