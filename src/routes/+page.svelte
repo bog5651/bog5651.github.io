@@ -55,12 +55,15 @@
 							</h2>
 							<span
 								class="inline-flex items-center rounded bg-stone-100 px-2 py-0.5 text-xs font-medium text-stone-800 dark:bg-stone-700 dark:text-stone-100"
-								>{dialogReference}</span
 							>
+								{dialogReference}
+							</span>
 						</div>
 
 						{#if dialogSubtitle}
-							<span class="my-2 text-sm text-stone-600 dark:text-stone-300">{dialogSubtitle}</span>
+							<span class="my-2 text-sm text-stone-600 dark:text-stone-300">
+								{dialogSubtitle}
+							</span>
 						{/if}
 
 						<div class="mt-4 text-sm dark:text-stone-100 md:text-base">
@@ -75,8 +78,8 @@
 								>Закрыть
 							</button>
 						</div>
-					</div></Transition
-				>
+					</div>
+				</Transition>
 			</div>
 		</div>
 	</Transition>

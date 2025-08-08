@@ -10,6 +10,6 @@
 		class="flex items-center justify-center"
 	>
 		<LucideCode2 class="h-5 w-5" />
-		<span class="ml-1 font-medium hover:underline">open source by phenomen#1337</span>
+		<span class="ml-1 font-medium hover:underline">open source by phenomen#1337, tuned by bog5651</span>
 	</a>
 </div>
