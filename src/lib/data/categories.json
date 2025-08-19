@@ -59,6 +59,11 @@
 		"color": "g-sky"
 	},
 	{
+		"dataset": "/src/lib/data/ps/weapons.json",
+		"title": "Броня и оружие",
+		"color": "g-sky"
+	},
+	{
 		"dataset": "/src/lib/data/ps/spellcasting.json",
 		"title": "Заклинания",
 		"color": "g-blue"
