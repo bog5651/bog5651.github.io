@@ -62,7 +62,7 @@
 
 						{#if dialogSubtitle}
 							<span class="my-2 text-sm text-stone-600 dark:text-stone-300">
-								{dialogSubtitle}
+								{@html dialogSubtitle}
 							</span>
 						{/if}
 

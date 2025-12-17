@@ -63,10 +63,10 @@
 								<RuleIcon icon={rule.icon} />
 							</div>
 							<div>
-								<h3 class="font-medium">{rule.title}</h3>
+								<h3 class="font-medium">{@html rule.title}</h3>
 								{#if rule.subtitle}
 									<p class="mt-1 text-sm leading-5">
-										{rule.subtitle}
+										{@html rule.subtitle}
 									</p>
 								{/if}
 							</div>

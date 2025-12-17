@@ -103,3 +103,7 @@ ul {
 .g-fuchsia {
 	@apply border-fuchsia-600 text-fuchsia-600 hover:border-fuchsia-700;
 }
+
+a {
+    text-decoration: underline;
+}
