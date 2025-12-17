@@ -69,6 +69,11 @@
 		"color": "g-blue"
 	},
 	{
+		"dataset": "/src/lib/data/ps/invocations.json",
+		"title": "Воззвания",
+		"color": "g-blue"
+	},
+	{
 		"dataset": "/src/lib/data/ps/travel.json",
 		"title": "Путешествие",
 		"color": "g-indigo"
